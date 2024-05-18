@@ -1,0 +1,6 @@
+Flask==2.2.2
+keras==2.12.0rc0
+Keras_Preprocessing==1.1.2
+numpy==1.23.5
+opencv_python==4.7.0.68
+tqdm==4.64.1
